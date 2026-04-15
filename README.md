@@ -1,4 +1,3 @@
-markdown
 # Netflix Account Checker
 
 A multithreaded Netflix account checker that validates credentials and retrieves subscription details using proxies.
