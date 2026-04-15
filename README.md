@@ -45,8 +45,7 @@ nf-free.txt	Free trial accounts
 ```bash
 john@gmail.com:password123 | Plan = Premium | Stream Quality = 4K+HDR | Screens = 4 | Payment = Credit Card | Country = US
 ```
-# By @updh1
-```bash
+
 Disclaimer
 This tool is for educational purposes only.
 
@@ -58,6 +57,6 @@ Netflix may block IPs that send excessive requests
 
 License
 Educational use only.
-```
+
 # Author
 @updh1
